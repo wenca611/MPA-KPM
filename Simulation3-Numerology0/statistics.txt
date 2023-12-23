@@ -1,0 +1,522 @@
+
+UE-1 (7.0.0.2:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	13.531	ms
+
+UE-2 (7.0.0.3:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	0	Packets
+  PacketLoss:	0.00	% 
+  Throughput:  0 Mbps
+  Mean delay:  0 ms
+
+UE-3 (7.0.0.4:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	14.230	ms
+
+UE-4 (7.0.0.5:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	45	Packets
+  PacketLoss:	90.00	% 
+  Throughput:	5.249	Mbps
+  Mean delay:	26.101	ms
+
+UE-5 (7.0.0.6:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	25	Packets
+  PacketLoss:	50.00	% 
+  Throughput:	2.916	Mbps
+  Mean delay:	48.197	ms
+
+UE-6 (7.0.0.7:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	29	Packets
+  PacketLoss:	58.00	% 
+  Throughput:	3.383	Mbps
+  Mean delay:	82.513	ms
+
+UE-7 (7.0.0.8:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	12.037	ms
+
+UE-8 (7.0.0.9:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	13.670	ms
+
+UE-9 (7.0.0.10:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	45	Packets
+  PacketLoss:	90.00	% 
+  Throughput:	5.249	Mbps
+  Mean delay:	24.362	ms
+
+UE-10 (7.0.0.11:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	41	Packets
+  PacketLoss:	82.00	% 
+  Throughput:	4.782	Mbps
+  Mean delay:	77.722	ms
+
+UE-11 (7.0.0.12:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	13.317	ms
+
+UE-12 (7.0.0.13:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	12.207	ms
+
+UE-13 (7.0.0.14:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	12.211	ms
+
+UE-14 (7.0.0.15:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	44	Packets
+  PacketLoss:	88.00	% 
+  Throughput:	5.132	Mbps
+  Mean delay:	28.648	ms
+
+UE-15 (7.0.0.16:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	47	Packets
+  PacketLoss:	94.00	% 
+  Throughput:	5.482	Mbps
+  Mean delay:	8.865	ms
+
+UE-16 (7.0.0.17:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	40	Packets
+  PacketLoss:	80.00	% 
+  Throughput:	4.666	Mbps
+  Mean delay:	26.032	ms
+
+UE-17 (7.0.0.18:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	41	Packets
+  PacketLoss:	82.00	% 
+  Throughput:	4.782	Mbps
+  Mean delay:	89.062	ms
+
+UE-18 (7.0.0.19:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	44	Packets
+  PacketLoss:	88.00	% 
+  Throughput:	5.132	Mbps
+  Mean delay:	35.079	ms
+
+UE-19 (7.0.0.20:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	47	Packets
+  PacketLoss:	94.00	% 
+  Throughput:	5.482	Mbps
+  Mean delay:	9.970	ms
+
+UE-20 (7.0.0.21:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	38	Packets
+  PacketLoss:	76.00	% 
+  Throughput:	4.432	Mbps
+  Mean delay:	25.234	ms
+
+UE-21 (7.0.0.22:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	45	Packets
+  PacketLoss:	90.00	% 
+  Throughput:	5.249	Mbps
+  Mean delay:	34.475	ms
+
+UE-22 (7.0.0.23:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	12.033	ms
+
+UE-23 (7.0.0.24:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	12.039	ms
+
+UE-24 (7.0.0.25:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	47	Packets
+  PacketLoss:	94.00	% 
+  Throughput:	5.482	Mbps
+  Mean delay:	8.078	ms
+
+UE-25 (7.0.0.26:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	47	Packets
+  PacketLoss:	94.00	% 
+  Throughput:	5.482	Mbps
+  Mean delay:	8.073	ms
+
+UE-26 (7.0.0.27:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	14.967	ms
+
+UE-27 (7.0.0.28:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	26	Packets
+  PacketLoss:	52.00	% 
+  Throughput:	3.033	Mbps
+  Mean delay:	49.100	ms
+
+UE-28 (7.0.0.29:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	12.193	ms
+
+UE-29 (7.0.0.30:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	36	Packets
+  PacketLoss:	72.00	% 
+  Throughput:	4.199	Mbps
+  Mean delay:	70.851	ms
+
+UE-30 (7.0.0.31:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	34	Packets
+  PacketLoss:	68.00	% 
+  Throughput:	3.966	Mbps
+  Mean delay:	41.080	ms
+
+UE-31 (7.0.0.32:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	33	Packets
+  PacketLoss:	66.00	% 
+  Throughput:	3.849	Mbps
+  Mean delay:	25.714	ms
+
+UE-32 (7.0.0.33:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	18.488	ms
+
+UE-33 (7.0.0.34:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	47	Packets
+  PacketLoss:	94.00	% 
+  Throughput:	5.482	Mbps
+  Mean delay:	14.840	ms
+
+UE-34 (7.0.0.35:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	47	Packets
+  PacketLoss:	94.00	% 
+  Throughput:	5.482	Mbps
+  Mean delay:	11.157	ms
+
+UE-35 (7.0.0.36:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	45	Packets
+  PacketLoss:	90.00	% 
+  Throughput:	5.249	Mbps
+  Mean delay:	13.275	ms
+
+UE-36 (7.0.0.37:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	9.005	ms
+
+UE-37 (7.0.0.38:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	45	Packets
+  PacketLoss:	90.00	% 
+  Throughput:	5.249	Mbps
+  Mean delay:	32.815	ms
+
+UE-38 (7.0.0.39:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	47	Packets
+  PacketLoss:	94.00	% 
+  Throughput:	5.482	Mbps
+  Mean delay:	11.692	ms
+
+UE-39 (7.0.0.40:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	43	Packets
+  PacketLoss:	86.00	% 
+  Throughput:	5.016	Mbps
+  Mean delay:	60.038	ms
+
+UE-40 (7.0.0.41:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	15.553	ms
+
+UE-41 (7.0.0.42:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	12.473	ms
+
+UE-42 (7.0.0.43:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	18	Packets
+  PacketLoss:	36.00	% 
+  Throughput:	2.100	Mbps
+  Mean delay:	29.510	ms
+
+UE-43 (7.0.0.44:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	6	Packets
+  PacketLoss:	12.00	% 
+  Throughput:	0.700	Mbps
+  Mean delay:	155.870	ms
+
+UE-44 (7.0.0.45:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	47	Packets
+  PacketLoss:	94.00	% 
+  Throughput:	5.482	Mbps
+  Mean delay:	11.639	ms
+
+UE-45 (7.0.0.46:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	11.715	ms
+
+UE-46 (7.0.0.47:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	45	Packets
+  PacketLoss:	90.00	% 
+  Throughput:	5.249	Mbps
+  Mean delay:	21.908	ms
+
+UE-47 (7.0.0.48:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	15.237	ms
+
+UE-48 (7.0.0.49:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	14.706	ms
+
+UE-49 (7.0.0.50:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	12.709	ms
+
+UE-50 (7.0.0.51:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	10.902	ms
+
+UE-51 (7.0.0.52:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	45	Packets
+  PacketLoss:	90.00	% 
+  Throughput:	5.249	Mbps
+  Mean delay:	26.449	ms
+
+UE-52 (7.0.0.53:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	47	Packets
+  PacketLoss:	94.00	% 
+  Throughput:	5.482	Mbps
+  Mean delay:	10.937	ms
+
+UE-53 (7.0.0.54:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	12.948	ms
+
+UE-54 (7.0.0.55:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	14.842	ms
+
+UE-55 (7.0.0.56:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	14.546	ms
+
+UE-56 (7.0.0.57:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	47	Packets
+  PacketLoss:	94.00	% 
+  Throughput:	5.482	Mbps
+  Mean delay:	11.431	ms
+
+UE-57 (7.0.0.58:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	29	Packets
+  PacketLoss:	58.00	% 
+  Throughput:	3.383	Mbps
+  Mean delay:	64.977	ms
+
+UE-58 (7.0.0.59:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	33	Packets
+  PacketLoss:	66.00	% 
+  Throughput:	3.849	Mbps
+  Mean delay:	74.922	ms
+
+UE-59 (7.0.0.60:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	11.423	ms
+
+UE-60 (7.0.0.61:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	11.034	ms
+
+UE-61 (7.0.0.62:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	14.403	ms
+
+UE-62 (7.0.0.63:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	47	Packets
+  PacketLoss:	94.00	% 
+  Throughput:	5.482	Mbps
+  Mean delay:	10.618	ms
+
+UE-63 (7.0.0.64:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	11.450	ms
+
+UE-64 (7.0.0.65:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	26	Packets
+  PacketLoss:	52.00	% 
+  Throughput:	3.033	Mbps
+  Mean delay:	42.084	ms
+
+UE-65 (7.0.0.66:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	15.208	ms
+
+UE-66 (7.0.0.67:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	37	Packets
+  PacketLoss:	74.00	% 
+  Throughput:	4.316	Mbps
+  Mean delay:	28.233	ms
+
+UE-67 (7.0.0.68:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	47	Packets
+  PacketLoss:	94.00	% 
+  Throughput:	5.482	Mbps
+  Mean delay:	13.741	ms
+
+UE-68 (7.0.0.69:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	34	Packets
+  PacketLoss:	68.00	% 
+  Throughput:	3.966	Mbps
+  Mean delay:	68.071	ms
+
+UE-69 (7.0.0.70:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	10.813	ms
+
+UE-70 (7.0.0.71:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	35	Packets
+  PacketLoss:	70.00	% 
+  Throughput:	4.082	Mbps
+  Mean delay:	54.091	ms
+
+UE-71 (7.0.0.72:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	46	Packets
+  PacketLoss:	92.00	% 
+  Throughput:	5.365	Mbps
+  Mean delay:	15.852	ms
+
+UE-72 (7.0.0.73:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	43	Packets
+  PacketLoss:	86.00	% 
+  Throughput:	5.016	Mbps
+  Mean delay:	58.799	ms
+
+UE-73 (7.0.0.74:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	30	Packets
+  PacketLoss:	60.00	% 
+  Throughput:	3.499	Mbps
+  Mean delay:	89.439	ms
+
+UE-74 (7.0.0.75:49153 -> 1.0.0.2:49469)	UDP
+  Tx Packets:	50	Packets
+  Rx Packets:	45	Packets
+  PacketLoss:	90.00	% 
+  Throughput:	5.249	Mbps
+  Mean delay:	25.738	ms
+
+
+  Mean flow throughput:	4.837 Mbps
+  Mean flow delay:	27.800 ms
